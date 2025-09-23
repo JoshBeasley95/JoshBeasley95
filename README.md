@@ -35,12 +35,11 @@ Each project includes:
 **A supervised ML pipeline to detect fraudulent transactions in a simulated metaverse economy.**
 
 
-- 🔗 [Live Streamlit App](https://your-streamlit-link)
 - 📂 [GitHub Repo](https://github.com/your-username/metaverse-fraud-detector)
-- 📽️ [Loom Walkthrough](https://loom.com/your-fraud-video)
+- 📈 Jupyter Notebook + Visualizations
 
 
-![Fraud App Preview](thumbnails/fraud_detector.png)
+![Fraud Preview](thumbnails/fraud_detector.png)
 
 
 ---
