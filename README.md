@@ -24,6 +24,7 @@ Each project includes:
 - 🔗 [Live Streamlit App](https://marketing-decision-intelligence-system-tpb6grgdoffslvnyzbxh7x.streamlit.app/)
 - 📂 [GitHub Repo](https://github.com/JoshBeasley95/marketing-decision-intelligence-system)
 - 📽️ [Loom Walkthrough](https://www.loom.com/share/bf65947ee9c14b39a75fe0657adbf441?sid=d08054fb-75c3-4b09-9d47-b3a4c3ce3893)
+- 📈 Jupyter Notebook + Visualizations
 
 ![App Preview](./app_preview.png)
 
@@ -31,7 +32,19 @@ Each project includes:
 ---
 
 
-### 2. 🕵️‍♂️ Metaverse Fraud Detection
+### 2. 🎓 Student Success Prediction
+**Capstone project using regression models to predict district-level academic performance from demographic and programmatic features.**
+
+
+- 📂 [GitHub Repo](https://github.com/JoshBeasley/Springboard-Data-Science/Notebooks/Capstone%202)
+- 📈 Jupyter Notebook + Visualizations
+
+
+---
+
+
+
+### 3. 🕵️‍♂️ Metaverse Fraud Detection
 **A supervised ML pipeline to detect fraudulent transactions in a simulated metaverse economy.**
 
 
@@ -44,16 +57,6 @@ Each project includes:
 
 ---
 
-
-### 3. 🎓 Student Success Prediction
-**Capstone project using regression models to predict district-level academic performance from demographic and programmatic features.**
-
-
-- 📂 [GitHub Repo](https://github.com/your-username/student-success-prediction)
-- 📈 Jupyter Notebook + Visualizations
-
-
----
 
 
 ## 🛠️ Installation (Optional)
