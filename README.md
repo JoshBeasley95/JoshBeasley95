@@ -36,7 +36,7 @@ Each project includes:
 - 📂 [GitHub Repo](https://github.com/JoshBeasley95/Springboard-Data-Science/tree/master/Notebooks/Capstone%202)
 - 📈 Jupyter Notebook + Visualizations
 
-![Educational Inequality Image](/images/Educational%20Inequality%20Image.jpeg)
+![Educational Inequality Image](/images/success-prediction-scenarios.jpeg)
 
 ---
 
