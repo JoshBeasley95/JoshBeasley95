@@ -28,35 +28,26 @@ Each project includes:
 
 ![App Preview](./app_preview.png)
 
-
 ---
-
 
 ### 2. 🎓 Student Success Prediction
 **Capstone project using regression models to predict district-level academic performance from demographic and programmatic features.**
 
-
-- 📂 [GitHub Repo](https://github.com/JoshBeasley/Springboard-Data-Science/Notebooks/Capstone%202)
+- 📂 [GitHub Repo](https://github.com/JoshBeasley95/Springboard-Data-Science/tree/main/Notebooks/Capstone%202)
 - 📈 Jupyter Notebook + Visualizations
 
-
 ---
-
-
 
 ### 3. 🕵️‍♂️ Metaverse Fraud Detection
 **A supervised ML pipeline to detect fraudulent transactions in a simulated metaverse economy.**
 
-
-- 📂 [GitHub Repo](https://github.com/your-username/metaverse-fraud-detector)
+- 📂 [GitHub Repo](https://github.com/JoshBeasley95/Springboard-Data-Science/tree/main/Notebooks/Capstone%203)
 - 📈 Jupyter Notebook + Visualizations
 
 
-![Fraud Preview](thumbnails/fraud_detector.png)
-
+![Metaverse Fraud Image](./Metaverse%20Fraud.jpg)
 
 ---
-
 
 
 ## 🛠️ Installation (Optional)
@@ -95,8 +86,8 @@ You’ll find these linked under each project.
 
 ## Contact
 Have questions or want to connect?
-- [Business Email](texasjmb@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/joshuabeasley/)])
+- [Business Email](mailto:texasjmb@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/joshuabeasley/)
 
 
 ---
