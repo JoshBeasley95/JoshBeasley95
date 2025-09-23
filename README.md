@@ -72,19 +72,6 @@ streamlit run streamlit_app_synthetic_data.py
 ---
 
 
-## 🎥 Loom Walkthroughs
-Each project includes a 2–3 minute Loom video explaining:
-- What the tool does
-- How it works
-- Why it matters
-
-
-You’ll find these linked under each project.
-
-
----
-
-
 ## Contact
 Have questions or want to connect?
 - [Business Email](mailto:texasjmb@gmail.com)
