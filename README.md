@@ -63,7 +63,7 @@ All apps are available via public Streamlit links. However, if you'd prefer to r
 
 ```bash
 # 1. Clone the repo
-https://github.com/your-username/marketing-decision-intelligence.git
+https://github.com/JoshBeasley95/marketing-decision-intelligence-system.git
 
 
 # 2. Install dependencies
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 
 # 3. Run the app
-streamlit run streamlit_app.py
+streamlit run streamlit_app_synthetic_data.py
 ```
 
 
