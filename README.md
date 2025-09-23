@@ -36,7 +36,7 @@ Each project includes:
 - 📂 [GitHub Repo](https://github.com/JoshBeasley95/Springboard-Data-Science/tree/master/Notebooks/Capstone%202)
 - 📈 Jupyter Notebook + Visualizations
 
-![Educational Inequality Image](/images/success_prediction_scenarios.jpeg)
+![Educational Inequality Image](./success_prediction_scenarios.jpeg)
 
 ---
 
@@ -46,7 +46,7 @@ Each project includes:
 - 📂 [GitHub Repo](https://github.com/JoshBeasley95/Springboard-Data-Science/tree/master/Notebooks/Capstone%203)
 - 📈 Jupyter Notebook + Visualizations
 
-![Metaverse Fraud Image](./Metaverse%20Fraud.jpg)
+![Metaverse Fraud Image](./Metaverse%20Fraud%20image.jpg)
 
 ---
 
