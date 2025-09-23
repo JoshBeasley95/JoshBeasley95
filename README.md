@@ -95,9 +95,8 @@ You’ll find these linked under each project.
 
 ## Contact
 Have questions or want to connect?
-- [Your Business Email](mailto:you@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Website (optional)](https://yourwebsite.com)
+- [Business Email](texasjmb@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/joshuabeasley/)])
 
 
 ---
