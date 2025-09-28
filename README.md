@@ -1,7 +1,7 @@
 # Joshua Beasley — Data Science Portfolio
 
 
-Welcome to my portfolio! This repository showcases a curated set of real-world data science and AI projects that I've built from end to end — covering predictive modeling, app development, marketing analytics, fraud detection, and more.
+Welcome to my portfolio! This repository showcases a curated set of real-world data science and AI projects that I've built from end to end: covering predictive modeling, app development, marketing analytics, fraud detection, and more.
 
 
 Each project includes:
