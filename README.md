@@ -51,7 +51,7 @@ Each project includes:
 ---
 
 
-## 🛠️ Installation (Optional)
+## Installation (Optional)
 All apps are available via public Streamlit links. However, if you'd prefer to run them locally:
 
 
